@@ -1,16 +1,16 @@
 # Vanilla-JS-Projects
 
 Project 1
-- https://github.com/SarahMaeB/Vanilla-JS-Projects/Project%201/setup
+- https://sarahmaeb.github.io/Vanilla-JS-Projects/Project%201/setup
 
 Project 2
-- https://github.com/SarahMaeB/Vanilla-JS-Projects/Project%202/setup
+- https://sarahmaeb.github.io/Vanilla-JS-Projects/Project%202/setup
 
 Project 4
-- https://github.com/SarahMaeB/Vanilla-JS-Projects/Project%204/setup
+- https://sarahmaeb.github.io/Vanilla-JS-Projects/Project%204/setup
 
 Project 7
-- https://github.com/SarahMaeB/Vanilla-JS-Projects/Project%207/setup
-
+- https://sarahmaeb.github.io/Vanilla-JS-Projects/Project%207/setup/
+- 
 Project 15
-- https://github.com/SarahMaeB/Vanilla-JS-Projects/Project%2015/setup
+- https://sarahmaeb.github.io/Vanilla-JS-Projects/Project%2015/setup
