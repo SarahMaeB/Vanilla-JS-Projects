@@ -11,6 +11,6 @@ Project 4
 
 Project 7
 - https://sarahmaeb.github.io/Vanilla-JS-Projects/Project%207/setup/
-- 
+
 Project 15
 - https://sarahmaeb.github.io/Vanilla-JS-Projects/Project%2015/setup
